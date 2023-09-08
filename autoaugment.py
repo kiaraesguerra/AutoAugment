@@ -1,5 +1,5 @@
 import numpy as np
-from ops import *
+from .ops import *
 
 
 class ImageNetPolicy(object):
